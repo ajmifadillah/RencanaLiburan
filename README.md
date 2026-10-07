@@ -92,4 +92,4 @@ rencana_liburan
 ## 6. Link Video
 
 Penjelasan aplikasi/web dan struktur database yang sudah dibuat
-https://drive.google.com/file/d/1q9WSVZO1pKrKnOxZL6p7FNx2sjcQia5g/view?usp=drive_link"# RencanaLiburan" 
+https://drive.google.com/file/d/1q9WSVZO1pKrKnOxZL6p7FNx2sjcQia5g/view?usp=drive_link 
